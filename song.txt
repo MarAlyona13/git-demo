@@ -3,15 +3,5 @@ wall of shields
 lalala
 eeeeee
 
-privet
-<<<<<<< HEAD
-everything will be allright
-
 kuplet
 poem vmeste!!!
-
-konec pesni
------------
-=======
-everything will be allright
->>>>>>> 39187321b1a058b57064601b46790e7e35426d8f
